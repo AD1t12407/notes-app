@@ -12,11 +12,10 @@ root.render(
   <h1 style={
     {
       color: 'white',
-      
       textAlign: 'center',
-      padding: '20px',
+      padding: '20px ',
     }
-  }> Let's Take Notes </h1>
+  }> Let's Take Notes! </h1>
 
   <React.StrictMode>
     <App />
